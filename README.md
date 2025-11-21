@@ -1,2 +1,1 @@
-# Mini-Project
-IoT based People Counting System using Ultrasonic Sensors
+# IoT based People Counting System using Ultrasonic Sensors
